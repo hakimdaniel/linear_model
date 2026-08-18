@@ -40,6 +40,7 @@ print("\n--------RESULT---------")
 print("[ Trained Linear Regression Model ]")
 print("Final weight:",w)
 print("Final bias:",b)
+print("Final loss:",loss)
 
 print("\nTest model")
 print("Input 2 :",predict(2))
