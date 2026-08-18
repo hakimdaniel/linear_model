@@ -22,7 +22,7 @@ LINEAR REGRESSION MODEL FLOW
 
 ### Multiple Linear Regression Model
 ```text
-Coming soon
+Coming soon...
 
 prediction = w1x1 + + w2x2 + w3x3 + b
 ```
