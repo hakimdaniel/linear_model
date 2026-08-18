@@ -25,7 +25,27 @@ LINEAR REGRESSION MODEL FLOW
 
 ### Multiple Linear Regression Model
 ```text
-Coming soon...
+MULTIPLE LINEAR REGRESSION MODEL FLOW
 
-prediction = w1x1 + + w2x2 + w3x3 + b
+     MULTIPLE INPUT
+    x1   x2   x3
+     \    |    /
+      \   |   /
+       \  |  /
+        MODEL
+          ↓
+     PREDICTION
+          ↓
+        ERROR
+          ↓
+         LOSS
+          ↓
+       GRADIENT
+          ↓
+    UPDATE WEIGHTS
+      w1  w2  w3
+          ↓
+      UPDATE BIAS
+          ↓
+         LOOP
 ```
