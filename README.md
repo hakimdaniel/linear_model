@@ -1,6 +1,8 @@
 # linear_model
 Linear model of Artificial Intelligence (AI)
 
+Give me a star ⭐ and click watch button above to keep update about this repository.
+
 ### Linear Regression Model
 ```text
 LINEAR REGRESSION MODEL FLOW
