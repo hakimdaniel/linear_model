@@ -1,6 +1,6 @@
 # linear_model
 Linear model of Artificial Intelligence (AI)
-Machine Learning Algorithm for future prediction.
+Machine Learning Algorithm for future value prediction.
 
 Give me a star ⭐ and click watch button above to keep update about this repository.
 
