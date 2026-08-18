@@ -3,7 +3,7 @@ Linear model of Artificial Intelligence (AI)
 
 ### Linear Regression Model
 ```text
-LINEAR REGRESSION MODEL
+LINEAR REGRESSION MODEL FLOW
 
 1 input
     V
@@ -18,4 +18,11 @@ LINEAR REGRESSION MODEL
 6 update w, b
     V
 7 loop
+```
+
+### Multiple Linear Regression Model
+```text
+Coming soon
+
+prediction = w1x1 + + w2x2 + w3x3 + b
 ```
